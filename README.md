@@ -7,42 +7,60 @@
 
 ---
 
-### ⚡ About Me
+### 📝 About Me
 
-I build **systems that work quietly but powerfully**.  
+I craft **systems that work quietly but powerfully**.  
 
-- Backend whisperer: PHP & Laravel.  
-- Database tamer: MySQL.  
-- Frontend dabbling: React, HTML, CSS — for the bits that humans see.  
+- Backend whisperer: PHP & Laravel 💻  
+- Database tamer: MySQL 🗄️  
+- Frontend dabbling: React, HTML, CSS — for the parts humans see 🌐  
 
-💡 I love turning ideas into something real, small bugs into learning moments, and coffee into productivity.  
+I honed my skills through an **internship and full-time role at Rev9 Solutions**, building APIs, server logic, and scalable backend systems.  
 
-Previously, I interned and worked at **Rev9 Solutions**, writing APIs, crafting server-side logic, and making sense of messy databases.  
+Currently: experimenting with **AI integration** and creative web engineering.  
 
-Currently: experimenting with **AI integration**, sketching dress ideas, and occasionally losing myself in henna patterns — because why not?  
-
-> “I don’t just code. I craft experiences. Every project is a tiny rebellion against chaos.”
+> 💡 *“Every project is a tiny rebellion against chaos. I don’t just code — I create experiences.”*
 
 ---
 
 ### 🛠 Tech Arsenal
 
-| Category | Tools & Skills |
-|----------|----------------|
-| Backend  | PHP, Laravel, API Design |
-| Frontend | React, HTML, CSS, Bootstrap, GSAP |
-| Database | MySQL |
-| Programming | C++, OOP, Data Structures & Algorithms |
-| Practices | Agile, Software Engineering, Version Control (Git) |
-| Extras | AI integration, creative problem solving, design experiments |
+| 💾 Backend      | PHP, Laravel, API Design, Server Logic |
+|-----------------|---------------------------------------|
+| 🌐 Frontend     | React, HTML, CSS, Bootstrap, GSAP    |
+| 🗄 Database     | MySQL                                  |
+| 💻 Programming  | C++, OOP, Data Structures & Algorithms|
+| ⚙️ Practices   | Agile, Software Engineering, Version Control (Git) |
+| ✨ Extras       | AI integration, creative problem solving, Graphic Arts inspiration |
 
 ---
 
-### 🚀 My Philosophy
+### 🎨 Philosophy / Sticky Notes  
 
-- **Less talk, more build.**  
-- **Every line of code should mean something.**  
-- **Creativity isn’t optional.** Even in backend, even in life.  
+- 🟨 **Less talk, more build.**  
+- 🟩 **Every line of code should mean something.**  
+- 🟦 **Creativity is mandatory**, even in backend, even in life.  
+- 🟧 **Tea > Coffee**, obviously 🍵  
+
+> 🔥 *“If it isn’t slightly chaotic, it isn’t creative. And if it isn’t creative, why code at all?”*
+
+---
+
+### 🚀 Current Projects / Experiments
+
+- **Laravel API Systems:** building modular, scalable backend systems  
+- **React Dashboards:** dynamic visualizations of project data  
+- **AI Web Integration:** smarter, adaptive web applications  
+- **Graphic Arts Experiments:** UI sketches, layouts, creative web ideas  
+
+---
+
+### 💡 How I Work
+
+- Break complex problems into small, elegant solutions  
+- Focus on backend logic first, frontend next  
+- Always leave room for creativity & experimentation  
+- Tea in hand, code in heart 🍵💻  
 
 ---
 
