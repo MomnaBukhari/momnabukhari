@@ -1,62 +1,72 @@
 <h1 align="center">Hi 👋, I'm Syeda Momna Batool</h1>
-<h3 align="center">Backend Developer and a passionate "Web Engineering" Learner</h3>
+<h3 align="center">Backend Developer | Web Systems Architect | AI Explorer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=momnabukhari&label=Profile%20views&color=0e75b6&style=flat" alt="momnabukhari" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momnabukhari&label=Profile%20views&color=0e75b6&style=flat" alt="momnabukhari" />
 </p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=momnabukhari" alt="momnabukhari" />
-  </a> 
-</p>
-
-### 🚀 About Me
-- 🔭 I’m currently working as a **Full-Time Backend Developer** at [Rev9 Solutions](https://rev9solutions.com/).  
-- 🌱 Besides backend development, I am learning **React** to build interfaces for the systems I develop.  
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/MomnaBukhari)**.  
-- 📫 How to reach me: **smomnabatool@gmail.com**  
-- 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/momna-batool/)**  
-- ⚡ Fun fact: *I make conclusions in one hour, "Oh, it seems easy!"*  
 
 ---
 
-### 🌐 Connect with Me
+### ⚡ About Me
+
+I build **systems that work quietly but powerfully**.  
+
+- Backend whisperer: PHP & Laravel.  
+- Database tamer: MySQL.  
+- Frontend dabbling: React, HTML, CSS — for the bits that humans see.  
+
+💡 I love turning ideas into something real, small bugs into learning moments, and coffee into productivity.  
+
+Previously, I interned and worked at **Rev9 Solutions**, writing APIs, crafting server-side logic, and making sense of messy databases.  
+
+Currently: experimenting with **AI integration**, sketching dress ideas, and occasionally losing myself in henna patterns — because why not?  
+
+> “I don’t just code. I craft experiences. Every project is a tiny rebellion against chaos.”
+
+---
+
+### 🛠 Tech Arsenal
+
+| Category | Tools & Skills |
+|----------|----------------|
+| Backend  | PHP, Laravel, API Design |
+| Frontend | React, HTML, CSS, Bootstrap, GSAP |
+| Database | MySQL |
+| Programming | C++, OOP, Data Structures & Algorithms |
+| Practices | Agile, Software Engineering, Version Control (Git) |
+| Extras | AI integration, creative problem solving, design experiments |
+
+---
+
+### 🚀 My Philosophy
+
+- **Less talk, more build.**  
+- **Every line of code should mean something.**  
+- **Creativity isn’t optional.** Even in backend, even in life.  
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/momna-batool" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momna-batool" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/smomnabukhary" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smomnabukhary" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠 Skills Summary (Updating Soon)
-#### 💻 Programming
-- C++ | PHP
+### 📊 GitHub Stats
 
-#### 🎨 Scripting & Frontend  
-- HTML | CSS  
-- Frontend Libraries: Bootstrap | GSAP  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momnabukhari&show_icons=true&locale=en&layout=compact" alt="momnabukhari" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=momnabukhari&show_icons=true&locale=en" alt="momnabukhari" />
+</p>
 
-#### ⚙️ Backend  
-- Laravel  
-
-#### 🗄️ Database  
-- MySQL  
-
-#### 🏗️ Core Concepts  
-- Object-Oriented Programming (OOP)  
-- Data Structures  
-- Software Engineering  
-
----
-
-### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momnabukhari&show_icons=true&locale=en&layout=compact" alt="momnabukhari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momnabukhari&show_icons=true&locale=en" alt="momnabukhari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momnabukhari&" alt="momnabukhari" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momnabukhari" alt="momnabukhari" />
+</p>
