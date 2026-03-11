@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syeda Momna Batool</h1>
+<h1 align="center">Hi 👋, I'm Syeda Momna Batool.</h1>
 <h3 align="center">Backend Developer | Web Systems Architect | AI Researcher</h3>
 
 <p align="center">
