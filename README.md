@@ -8,7 +8,6 @@
 ---
 
 ### 📝 About Me
-
 I craft **systems that work quietly but powerfully**.  
 
 - Backend whisperer: PHP & Laravel 💻  
@@ -24,7 +23,6 @@ Currently: experimenting with **AI integration** and creative web engineering.
 ---
 
 ### 🛠 Tech Arsenal
-
 | 💾 Backend      | PHP, Laravel, API Design, Server Logic |
 |-----------------|---------------------------------------|
 | 🌐 Frontend     | React, HTML, CSS, Bootstrap, GSAP    |
@@ -36,7 +34,6 @@ Currently: experimenting with **AI integration** and creative web engineering.
 ---
 
 ### 🎨 Philosophy / Sticky Notes  
-
 - 🟨 **Less talk, more build.**  
 - 🟩 **Every line of code should mean something.**  
 - 🟦 **Creativity is mandatory**, even in backend, even in life.  
@@ -47,7 +44,6 @@ Currently: experimenting with **AI integration** and creative web engineering.
 ---
 
 ### 🚀 Current Projects / Experiments
-
 - **Laravel API Systems:** building modular, scalable backend systems  
 - **React Dashboards:** dynamic visualizations of project data  
 - **AI Web Integration:** smarter, adaptive web applications  
@@ -56,7 +52,6 @@ Currently: experimenting with **AI integration** and creative web engineering.
 ---
 
 ### 💡 How I Work
-
 - Break complex problems into small, elegant solutions  
 - Focus on backend logic first, frontend next  
 - Always leave room for creativity & experimentation  
@@ -65,7 +60,6 @@ Currently: experimenting with **AI integration** and creative web engineering.
 ---
 
 ### 🌐 Connect With Me
-
 <p align="left">
   <a href="https://linkedin.com/in/momna-batool" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -78,7 +72,6 @@ Currently: experimenting with **AI integration** and creative web engineering.
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momnabukhari&show_icons=true&locale=en&layout=compact" alt="momnabukhari" />
   &nbsp;
