@@ -1,83 +1,92 @@
-<h1 align="center">Hi 👋, I'm Syeda Momna Batool.</h1>
-<h3 align="center">Backend Developer | Web Systems Architect | AI Researcher</h3>
+# Syeda Momna Batool
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momnabukhari&label=Profile%20views&color=0e75b6&style=flat" alt="momnabukhari" />
-</p>
+Backend Developer | Laravel | API Systems | AI Research Student
 
 ---
 
-### 📝 About Me
-I craft **systems that work quietly but powerfully**.  
+## 👋 About Me
 
-- Backend whisperer: PHP & Laravel 💻  
-- Database tamer: MySQL 🗄️  
-- Frontend dabbling: React, HTML, CSS — for the parts humans see 🌐  
+Backend Developer with experience in designing and developing web applications using PHP (Laravel), MySQL, and RESTful APIs.
 
-I honed my skills through an **internship and full-time role at Rev9 Solutions**, building APIs, server logic, and scalable backend systems.  
+I have worked in both internship and full-time roles at Rev9 Solutions, where I contributed to backend systems, API development, and database-driven applications within Agile teams.
 
-Currently: experimenting with **AI integration** and creative web engineering.  
-
-> 💡 *“Every project is a tiny rebellion against chaos. I don’t just code — I create experiences.”*
+Currently pursuing an MRes in Artificial Intelligence in the UK, with an interest in combining backend engineering with modern AI-driven development practices.
 
 ---
 
-### 🛠 Tech Arsenal
-| 💾 Backend      | PHP, Laravel, API Design, Server Logic |
-|-----------------|---------------------------------------|
-| 🌐 Frontend     | React, HTML, CSS, Bootstrap, GSAP    |
-| 🗄 Database     | MySQL                                  |
-| 💻 Programming  | C++, OOP, Data Structures & Algorithms|
-| ⚙️ Practices   | Agile, Software Engineering, Version Control (Git) |
-| ✨ Extras       | AI integration, creative problem solving, Graphic Arts inspiration |
+## 🛠 Technical Skills
+
+### Backend Development
+- PHP (Laravel)
+- RESTful API Development
+- MVC Architecture
+- Authentication & Authorization Systems
+
+### Frontend Development
+- React
+- HTML5
+- CSS3
+- Bootstrap
+- GSAP
+
+### Databases
+- MySQL
+- Database Design & Optimization
+
+### Programming & Concepts
+- C++
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Software Development Life Cycle (SDLC)
+
+### Tools & Practices
+- Git & GitHub
+- Agile / Scrum
+- API Integration
 
 ---
 
-### 🎨 Philosophy / Sticky Notes  
-- 🟨 **Less talk, more build.**  
-- 🟩 **Every line of code should mean something.**  
-- 🟦 **Creativity is mandatory**, even in backend, even in life.  
-- 🟧 **Tea > Coffee**, obviously 🍵  
+## 💼 Experience
 
-> 🔥 *“If it isn’t slightly chaotic, it isn’t creative. And if it isn’t creative, why code at all?”*
+### Backend Developer | Rev9 Solutions  
+March 2024 – July 2025  
 
----
-
-### 🚀 Current Projects / Experiments
-- **Laravel API Systems:** building modular, scalable backend systems  
-- **React Dashboards:** dynamic visualizations of project data  
-- **AI Web Integration:** smarter, adaptive web applications  
-- **Graphic Arts Experiments:** UI sketches, layouts, creative web ideas  
+- Developed backend features using Laravel and PHP
+- Designed and maintained RESTful APIs
+- Worked with MySQL databases for scalable data handling
+- Collaborated in Agile development teams
+- Supported full lifecycle feature development including testing and deployment
 
 ---
 
-### 💡 How I Work
-- Break complex problems into small, elegant solutions  
-- Focus on backend logic first, frontend next  
-- Always leave room for creativity & experimentation  
-- Tea in hand, code in heart 🍵💻  
+## 🎓 Education
+
+**MRes Artificial Intelligence** (In Progress)  
+University of Greater Manchester, Bolton, UK  
+
+**Bachelor of Science – Information Technology** (2020 – 2024)  
+University of Gujrat, Pakistan  
+
+**FSc Pre-Engineering** (2018 – 2020)  
+Pakistan  
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/momna-batool" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/smomnabukhary" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 🚀 Selected Projects
+
+- StudySphere — Full Stack Final Year Project (Laravel + DB Systems)
+- Inn’vision — Backend System (Rev9 Solutions)
+- Task Management System — Personal Backend Project
+- Muslim Match Makers — Backend + Database Contribution
+- Perfume Collection System — Frontend Practice Project
+- Educational Bootcamp Platform — https://scanpass.org/
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momnabukhari&show_icons=true&locale=en&layout=compact" alt="momnabukhari" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=momnabukhari&show_icons=true&locale=en" alt="momnabukhari" />
-</p>
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momnabukhari" alt="momnabukhari" />
-</p>
+- Email: smomnabatool@gmail.com  
+- Phone: +44 7804 533911  
+- LinkedIn: linkedin.com/in/momna-batool  
+- GitHub: github.com/MomnaBukhari  
+- Portfolio: syedamomnabatool.vercel.app  
