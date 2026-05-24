@@ -1,6 +1,6 @@
 # Syeda Momna Batool
 
-Backend Developer | Laravel | API Systems | AI Researcher
+Backend Developer | Laravel | API Systems | AI Research Student
 
 ---
 
